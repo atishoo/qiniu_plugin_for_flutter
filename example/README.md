@@ -1,6 +1,6 @@
-# sy_flutter_qiniu_storage_example
+# project example
 
-Demonstrates how to use the sy_flutter_qiniu_storage plugin.
+you can run this project to see effects
 
 ## Getting Started
 

@@ -11,3 +11,6 @@ idea/
 
 *.lock
 *.iml
+
+.flutter-plugins-dependencies
+.metadata
